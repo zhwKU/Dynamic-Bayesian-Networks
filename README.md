@@ -1,2 +1,2 @@
 # Dynamic-Bayesian-Networks
-A DBN algorithm for Long-term SHM with Scaled Mixture Likelihood Models and Improved Particle Filters
+A DBN algorithm for Long-term SHM with scaled mixture likelihood models and improved particle filters
